@@ -22,6 +22,3 @@ and results is available in the PDF file uploaded in this repository.
 - Handling real-time data
 - Application design and logic flow
 
-##  Note
-Source code is not publicly available. This repository contains
-project documentation for academic and learning purposes.
